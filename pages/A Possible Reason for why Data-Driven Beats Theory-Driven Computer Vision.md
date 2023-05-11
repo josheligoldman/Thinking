@@ -5,15 +5,10 @@
 - # Notes
 	- I think the paper is arguing that the theory-driven algorithms were developed with certain implicit assumptions about the camera settings. Therefore, when tested on data outside those ranges, they perform poorly. Data-driven models, on the other hand, can adapt to different setting as long as those settings are represented in their datasets. Therefore, it is unfair to test data-driven and theory driven on the same test sets, since the theory driven models weren't designed for that data.
 - # Pass 1
-	- Category
-		-
 	- Context
 		- Answering the question why data-driven machine learning performs so much better than theory driven machine learning
-	- Correctness
-		-
 	- Contributions
-		- Argues that theory-driven models were developed for specific camera settings, so they don't adapt well to settings outside their range. Therefore, it is unfare to compare them to data-drive approaches on test sets outside their specified range.
-	- Clarity
+		- Argues that theory-driven models were developed for specific camera settings, so they don't adapt well to settings outside their range. Therefore, it is unfair to compare them to data-drive approaches on test sets outside their specified range. Perhaps, the gap between data-driven and theory-driven models would be smaller if they were tested more fairly.
 # Pass 2
 	- Main Contribution
 	- Supporting Evidence
