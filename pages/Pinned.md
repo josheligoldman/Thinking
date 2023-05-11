@@ -12,10 +12,11 @@
 	- Source Template
 	  template:: Source Template
 	  template-including-parent:: false
-	  collapsed:: true
-	  Evergreen Template
 		- # Citation
 			- Source:
 			- Author:
 			- Status: [[IN-PROGRESS]]
 		- # Notes
+	- Evergreen Template
+		-
+		-
