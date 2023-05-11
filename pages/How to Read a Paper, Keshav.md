@@ -34,4 +34,5 @@
 		- Do a quick pass of each paper to get a basic idea. Read the related work sections more carefully.
 		- If there is a reference to a recent survey, you're done
 		- If not, find the papers cited multiple times. These are the key papers. Set these papers aside
-		-
+		- Not the authors of the paper. Go to their sites and look where they published. These places will likely be the top publications for their field.
+		- Go to the sites of these conferences and look through their proceedings.
