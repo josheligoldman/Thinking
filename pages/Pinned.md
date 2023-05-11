@@ -1,1 +1,12 @@
-- Hello, World!
+- # PARA Tags
+	- ## Projects
+		- [[Statistical Dataset Bias]]
+		- [[Dataset Sensor Bias]]
+	- ## Areas
+		- [[Algorithmic Fairness]]
+	- ## Resources
+		- [[Statistics]]
+	- ## Archive
+		-
+- # Templates
+	-
