@@ -3,7 +3,7 @@
 	- Author: [[John Tsotsos]], [[Iuliia Kotseruba]], [[Alexander Andreopoulos]], [[Yulong Wu]]
 	- Status: [[IN-PROGRESS]]
 - # Notes
-	-
+	- I think the paper is arguing that
 - # Pass 1
 	- Category
 	- Context
