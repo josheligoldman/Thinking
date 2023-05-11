@@ -3,4 +3,9 @@
 	- Author: [[Srinivasan Keshav]]
 	- Status: [[IN-PROGRESS]]
 - # Notes
-	-
+	- Read the paper in 3 passes
+	- # Pass 1
+		- Read Title, Abstract, Introduction
+		- Read Section Headings
+		- Read Conclusions
+		-
