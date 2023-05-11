@@ -19,6 +19,8 @@
 			- Status: [[IN-PROGRESS]]
 		- # Notes
 	- Academic Paper Template
+	  template:: Academic Paper Template
+	  template-including-parent:: false
 		- # Pass 1
 			- Category
 			- Context
@@ -29,7 +31,7 @@
 			- Main Contribution
 			- Supporting Evidence
 		- # Pass 3
-			- Go through step by s
+			-
 	- Evergreen Template
 	  template:: Evergreen Template
 	  template-including-parent:: false
