@@ -10,8 +10,10 @@
 		-
 - # Templates
 	- Source Template
+	  template:: Source Template
+	  template-including-parent:: false
 		- # Citation
 			- Source:
 			- Author:
 			- Status: [[IN-PROGRESS]]
-			-
+		-
