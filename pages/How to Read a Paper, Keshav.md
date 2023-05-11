@@ -10,7 +10,7 @@
 		- Read Conclusions
 		- Check the references
 		- Answer the 5 Cs
-			- Category:
+			- Category
 			- Context
 			- Correctness
 			- Contributions

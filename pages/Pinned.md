@@ -12,11 +12,15 @@
 	- Source Template
 	  template:: Source Template
 	  template-including-parent:: false
+	  collapsed:: true
 		- # Metadata
 			- Source:
 			- Author:
 			- Status: [[IN-PROGRESS]]
 		- # Notes
+	- Academic Paper Template
+		- # Pass 1
+			-
 	- Evergreen Template
 	  template:: Evergreen Template
 	  template-including-parent:: false
