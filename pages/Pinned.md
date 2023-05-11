@@ -12,8 +12,7 @@
 	- Source Template
 	  template:: Source Template
 	  template-including-parent:: false
-	  collapsed:: true
-		- # Citation
+		- # Metadata
 			- Source:
 			- Author:
 			- Status: [[IN-PROGRESS]]
@@ -22,7 +21,7 @@
 	  template:: Evergreen Template
 	  template-including-parent:: false
 	  collapsed:: true
+		- # Metadata
+			- Status: [[IN-PROGRESS]]
 		- # Bibliography
-- m
-- m
 -
