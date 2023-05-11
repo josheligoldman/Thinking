@@ -23,4 +23,7 @@
 			- What is the main contribution of this research paper?
 			- What is the supporting evidence?
 	- ## Pass 3
+		- Virtually re-implement the paper
+		- Identify and challenge every statement and every assumption
+		- Think about how you would have presented the information
 		-
