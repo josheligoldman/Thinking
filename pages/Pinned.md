@@ -11,4 +11,7 @@
 - # Templates
 	- Source Template
 		- # Citation
+			- Source:
+			- Author:
+			- Status: [[IN-PROGRESS]]
 			-
