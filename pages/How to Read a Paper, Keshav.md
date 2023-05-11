@@ -17,4 +17,5 @@
 			- Clarity
 		- From this information, determine whether you want to read the paper
 	- ## Pass 2
-		-
+		- Read with more care, but ignore details like proofs
+		- Mark unread references for future reading.
