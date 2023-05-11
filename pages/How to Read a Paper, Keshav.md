@@ -4,7 +4,7 @@
 	- Status: [[IN-PROGRESS]]
 - # Notes
 	- Read the paper in 3 passes
-	- # Pass 1
+	- ## Pass 1
 		- Read Title, Abstract, Introduction
 		- Read Section Headings
 		- Read Conclusions
@@ -16,4 +16,5 @@
 			- Contributions
 			- Clarity
 		- From this information, determine whether you want to read the paper
-	-
+	- ## Pass 2
+		-
