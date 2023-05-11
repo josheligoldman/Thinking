@@ -20,7 +20,16 @@
 		- # Notes
 	- Academic Paper Template
 		- # Pass 1
-			-
+			- Category
+			- Context
+			- Correctness
+			- Contributions
+			- Clarity
+		- # Pass 2
+			- Main Contribution
+			- Supporting Evidence
+		- # Pass 3
+			- Go through step by s
 	- Evergreen Template
 	  template:: Evergreen Template
 	  template-including-parent:: false
