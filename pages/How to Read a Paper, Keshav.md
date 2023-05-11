@@ -26,4 +26,7 @@
 		- Virtually re-implement the paper
 		- Identify and challenge every statement and every assumption
 		- Think about how you would have presented the information
-		-
+		- Compare your thinking with the papers
+		- Jot ideas for future work
+		- By the end, you should be able to reconstruct the entire paper from memory
+	- ## Co
