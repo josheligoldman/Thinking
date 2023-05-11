@@ -32,4 +32,6 @@
 	- ## Doing a Literature Review
 		- Find 5 recent papers in the field using Google Scholar or another search engine.
 		- Do a quick pass of each paper to get a basic idea. Read the related work sections more carefully.
+		- If there is a reference to a recent survey, you're done
+		- If not, find the papers cited multiple times. These are the key papers. Set these papers aside
 		-
