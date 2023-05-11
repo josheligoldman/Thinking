@@ -8,4 +8,12 @@
 		- Read Title, Abstract, Introduction
 		- Read Section Headings
 		- Read Conclusions
-		-
+		- Check the references
+		- Answer the 5 Cs
+			- Category:
+			- Context
+			- Correctness
+			- Contributions
+			- Clarity
+		- From this information, determine whether you want to read the paper
+	-
