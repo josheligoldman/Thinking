@@ -6,7 +6,9 @@
 	- I think the paper is arguing that the theory-driven algorithms were developed with certain implicit assumptions about the camera settings. Therefore, when tested on data outside those ranges, they perform poorly. Data-driven models, on the other hand, can adapt to different setting as long as those settings are represented in their datasets. Therefore, it is unfair to test data-driven and theory driven on the same test sets, since the theory driven models weren't designed for that data.
 - # Pass 1
 	- Category
+		-
 	- Context
+		- Answering the question why data
 	- Correctness
 	- Contributions
 	- Clarity
