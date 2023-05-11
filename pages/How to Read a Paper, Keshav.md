@@ -29,4 +29,7 @@
 		- Compare your thinking with the papers
 		- Jot ideas for future work
 		- By the end, you should be able to reconstruct the entire paper from memory
-	- ## Co
+	- ## Doing a Literature Review
+		- Find 5 recent papers in the field using Google Scholar or another search engine.
+		- Do a quick pass of each paper to get a basic idea. Read the related work sections more carefully.
+		-
