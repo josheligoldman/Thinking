@@ -19,3 +19,5 @@
 	- ## Pass 2
 		- Read with more care, but ignore details like proofs
 		- Mark unread references for future reading.
+		- Answer the Questions:
+			- What is the main contribution of this research paper.
