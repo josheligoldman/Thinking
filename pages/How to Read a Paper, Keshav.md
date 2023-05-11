@@ -1,5 +1,6 @@
 - # Citation
 	- Source: ![How to Read a Paper.pdf](../assets/How_to_Read_a_Paper_1683815418635_0.pdf)
-	- Author:
+	- Author: [[Srinivasan Keshav]]
 	- Status: [[IN-PROGRESS]]
--
+- # Notes
+	-
