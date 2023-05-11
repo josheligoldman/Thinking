@@ -8,9 +8,11 @@
 	- Category
 		-
 	- Context
-		- Answering the question why data
+		- Answering the question why data-driven machine learning performs so much better than theory driven machine learning
 	- Correctness
+		-
 	- Contributions
+		- Argues that theory-driven models were developed for specific camera settings, so they don't adapt well to settings outside their range. Therefore, it is unfare to compare them to data-drive approaches on test sets outside their specified range.
 	- Clarity
 # Pass 2
 	- Main Contribution
