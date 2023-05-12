@@ -7,5 +7,6 @@
 	- Probablistic and Non-Probablistic Sampling
 	- Unequal Probability Sampling
 	- Differing sample size allocations
-		- Neyman Allocation
+	- ## Chapter 1
+		-
 		-
