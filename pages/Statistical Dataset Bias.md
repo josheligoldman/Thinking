@@ -1,1 +1,3 @@
-- Look at sampling theory (not statistical sampling theory, but )
+- Look at sampling theory (not statistical sampling theory, but harmonic analysis type sampling theory).
+	- Perhaps, a good sample is one that best allows you to recover what the original space looks like.
+-
