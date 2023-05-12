@@ -3,4 +3,5 @@
 	- Author: [[Changbao Wu]], [[Mary Thompson]]
 	- Status: [[IN-PROGRESS]]
 # Notes
+	- Stratification, Clustering and Sampling Frames
 	-
