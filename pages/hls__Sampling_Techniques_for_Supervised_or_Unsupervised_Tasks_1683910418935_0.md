@@ -1,7 +1,8 @@
 # Metadata
-	- Source:
-	- Author:
+	- Source: ![Sampling Techniques for Supervised or Unsupervised Tasks.pdf](../assets/Sampling_Techniques_for_Supervised_or_Unsupervised_Tasks_1683918915838_0.pdf)
+	- Author: [[Frederic Ros]], [[Serge Guillaume]]
 	- Status: [[IN-PROGRESS]]
+	-
 # Notes
 - Horvitz–Thompson Estimator
   ls-type:: annotation
