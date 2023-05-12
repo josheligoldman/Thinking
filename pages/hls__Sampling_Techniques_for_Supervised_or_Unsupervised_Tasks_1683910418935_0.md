@@ -1,8 +1,5 @@
-file:: [Sampling_Techniques_for_Supervised_or_Unsupervised_Tasks_1683910418935_0.pdf](../assets/Sampling_Techniques_for_Supervised_or_Unsupervised_Tasks_1683910418935_0.pdf)
-file-path:: ../assets/Sampling_Techniques_for_Supervised_or_Unsupervised_Tasks_1683910418935_0.pdf
-
 # Metadata
-	- Source:
+	- Source: file::
 	- Author:
 	- Status: [[IN-PROGRESS]]
 # Notes
