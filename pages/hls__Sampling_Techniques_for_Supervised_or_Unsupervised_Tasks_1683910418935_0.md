@@ -1,5 +1,5 @@
 # Metadata
-	- Source: file::
+	- Source:
 	- Author:
 	- Status: [[IN-PROGRESS]]
 # Notes
