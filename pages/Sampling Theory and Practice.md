@@ -4,4 +4,6 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- Stratification, Clustering and Sampling Frames
+	- Probablistic and Non-Probablistic Sampling
+	- Unequal Probability Sampling
 	-
