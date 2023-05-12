@@ -2,6 +2,8 @@
 	- Source: ![Sampling Theory and Practice.pdf](../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf)
 	- Author: [[Changbao Wu]], [[Mary Thompson]]
 	- Status: [[IN-PROGRESS]]
+- # PARA
+	- [[Dataset Sensor Bias]]
 # Notes
 	- Stratification, Clustering and Sampling Frames
 	- Probablistic and Non-Probablistic Sampling
