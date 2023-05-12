@@ -6,4 +6,6 @@
 	- Stratification, Clustering and Sampling Frames
 	- Probablistic and Non-Probablistic Sampling
 	- Unequal Probability Sampling
-	-
+	- Differing sample size allocations
+		- Neyman Allocation
+		-
