@@ -12,5 +12,5 @@
 			- Lesson is that machine learning applications almost always concern people, and people are complex.
 		- ((64616ff7-2717-46eb-a710-1c7806976d22))
 			- Measurement is hard.
-			-
+			- NYT argued that Blacks and Latinos are most underrepresented now than in the past.
 		-
