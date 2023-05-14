@@ -7,5 +7,6 @@
 # Notes
 	- ## Chapter 1
 		- ((64616e7f-bcf7-4fab-9421-3f0d6f85f216))
-			-
+			- Smartphone app for potholes.
+			- Discriminated
 		-
