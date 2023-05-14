@@ -15,5 +15,6 @@
 			- Additional ethnic and racial categories were added over time.
 			- People might be more likely to say their true ethnicity now than in the past.
 			- The morel is that measurement is hard. People don't fit in nice clean boxes.
-		- ((646170ba-a7f1-4ac1-b494-fe6b85e16f07)) and
+		- ((646170ed-85d7-4af0-a45f-637630f54842)) and metrics
+			- Often times, the target variable that we
 		-

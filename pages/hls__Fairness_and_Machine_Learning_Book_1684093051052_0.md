@@ -11,8 +11,8 @@ file-path:: ../assets/Fairness_and_Machine_Learning_Book_1684093051052_0.pdf
   hl-page:: 7
   hl-color:: yellow
   id:: 64616ff7-2717-46eb-a710-1c7806976d22
-- arget variable
+- target variable
   ls-type:: annotation
   hl-page:: 8
   hl-color:: yellow
-  id:: 646170ba-a7f1-4ac1-b494-fe6b85e16f07
+  id:: 646170ed-85d7-4af0-a45f-637630f54842
