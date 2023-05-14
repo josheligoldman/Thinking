@@ -11,6 +11,9 @@
 			- Biased towards richer and younger neighbourhoods.
 			- Lesson is that machine learning applications almost always concern people, and people are complex.
 		- ((64616ff7-2717-46eb-a710-1c7806976d22))
-			- Measurement is hard.
 			- NYT argued that Blacks and Latinos are most underrepresented now than in the past.
+			- Additional ethnic and racial categories were added over time.
+			- People might be more likely to say their true ethnicity now than in the past.
+			- The morel is that measurement is hard. People don't fit in nice clean boxes.
+		-
 		-
