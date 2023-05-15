@@ -17,5 +17,6 @@
 			- The morel is that measurement is hard. People don't fit in nice clean boxes.
 		- ((646170ed-85d7-4af0-a45f-637630f54842)) and metrics
 			- Often times, the target variable that we want to assess is abstract (like credit score, etc.). We have to choose metrics that we think measure that variable.
+			- Total sales are subject to customer prejudices.
 			-
 		-
