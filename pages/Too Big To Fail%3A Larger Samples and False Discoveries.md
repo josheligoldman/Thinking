@@ -1,7 +1,8 @@
 - # PARA
 	- [[Statistical Dataset Bias]]
 - # Metadata
-	- Source:
-	- Author:
+	- Source: ![Too Big To Fail - Larger Samples and False Discoveries.pdf](../assets/Too_Big_To_Fail_-_Larger_Samples_and_False_Discoveries_1684244753676_0.pdf)
+	- Author: [[Mingfeng Lin]], [[Henry C. Lucas]], [[Galit Shmueli]]j
 	- Status: [[IN-PROGRESS]]
 # Notes
+	-
