@@ -7,4 +7,5 @@
 # Notes
 	- Can large samples lead to misleading results?
 	- ## Why p-values approach 0 when the sample size grows
+		- The null hypothesis is never totally true for a two sides hypothesis. The two values aren't equal to infinite decimal places.
 		-
