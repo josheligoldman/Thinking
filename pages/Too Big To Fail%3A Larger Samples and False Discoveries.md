@@ -5,4 +5,5 @@
 	- Author: [[Mingfeng Lin]], [[Henry C. Lucas]], [[Galit Shmueli]]j
 	- Status: [[IN-PROGRESS]]
 # Notes
-	-
+	- Can large samples lead to misleading results?
+		-
