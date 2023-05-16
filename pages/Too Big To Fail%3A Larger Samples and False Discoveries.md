@@ -13,4 +13,4 @@
 		- Use different sample sizes to show different values of significance.
 	- [[Don't Understand]] ((6463dc4a-4505-4c7a-a7ed-a61f3773842e))
 	- ((6463e17b-57f6-47ab-a5d5-0c0e88f4bc1f)) p value decreases logarithmically - connects to the logarithmic increase with more training data mentioned in [[Unbiased Look at Dataset Bias]]
-	-
+	- Statistical significance vs practical significance
