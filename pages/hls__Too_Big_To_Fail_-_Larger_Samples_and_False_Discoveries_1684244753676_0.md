@@ -11,3 +11,8 @@ file-path:: ../assets/Too_Big_To_Fail_-_Larger_Samples_and_False_Discoveries_168
   hl-page:: 6
   hl-color:: yellow
   id:: 6463dc4a-4505-4c7a-a7ed-a61f3773842e
+- The bottom panel displays the same p-value data on a logarithmic scal
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: yellow
+  id:: 6463e17b-57f6-47ab-a5d5-0c0e88f4bc1f

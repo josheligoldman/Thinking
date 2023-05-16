@@ -55,5 +55,22 @@
                                    :height 905.8823529411765}),
                           :page 6},
                :content {:text "we also recommend taking advantage of the large sample for evaluating model assumptions on which the coefficient interpretations rely. "},
+               :properties {:color "yellow"}}
+              {:id #uuid "6463e17b-57f6-47ab-a5d5-0c0e88f4bc1f",
+               :page 14,
+               :position {:bounding {:x1 165.38978576660156,
+                                     :y1 522.359375,
+                                     :x2 501.99598693847656,
+                                     :y2 534.359375,
+                                     :width 700,
+                                     :height 905.8823529411765},
+                          :rects ({:x1 165.38978576660156,
+                                   :y1 522.359375,
+                                   :x2 501.99598693847656,
+                                   :y2 534.359375,
+                                   :width 700,
+                                   :height 905.8823529411765}),
+                          :page 14},
+               :content {:text "The bottom panel displays the same p-value data on a logarithmic scal"},
                :properties {:color "yellow"}}],
- :extra {:page 14}}
+ :extra {:page 15}}
