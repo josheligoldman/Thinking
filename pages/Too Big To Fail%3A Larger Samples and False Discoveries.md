@@ -9,3 +9,6 @@
 	- ## p-values approach 0 when the sample size grows
 		- The null hypothesis is never totally true for a two sides hypothesis. The two values aren't equal to infinite decimal places.
 		- The math forces the p-va
+	- ((6463dba8-ca3d-428c-9513-f5731706b8da))
+		- Use different sample sizes to show different values of significance.
+	-
