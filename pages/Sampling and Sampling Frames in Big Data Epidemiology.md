@@ -6,4 +6,5 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- ## Sampling frames
-		- Non-contactable and non-response individuals are a non-random subset of the population. This impacts
+		- Non-contactable and non-response individuals are a non-random subset of the population. This impacts the generality of the results.
+		-
