@@ -6,4 +6,4 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- ## Sampling frames
-		-
+		- The people who surveys are unable to sample from
