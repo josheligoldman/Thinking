@@ -2,7 +2,7 @@
 	- [[Statistical Dataset Bias]]
 - # Metadata
 	- Source: ![Too Big To Fail - Larger Samples and False Discoveries.pdf](../assets/Too_Big_To_Fail_-_Larger_Samples_and_False_Discoveries_1684244753676_0.pdf)
-	- Author: [[Mingfeng Lin]], [[Henry C. Lucas]], [[Galit Shmueli]]j
+	- Author: [[Mingfeng Lin]], [[Henry C. Lucas]], [[Galit Shmueli]]
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- Can large samples lead to misleading results?
