@@ -10,5 +10,6 @@
 	- Unequal Probability Sampling
 	- Differing sample size allocations
 	- ## Chapter 1
-		-
+		- Populations
+			-
 		-
