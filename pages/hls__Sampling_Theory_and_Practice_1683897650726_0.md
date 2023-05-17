@@ -36,3 +36,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 52
   hl-color:: yellow
   id:: 64651064-a240-4c40-860a-d70967fe512f
+- Krewski and Rao (1981)
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 646510e8-58a9-4895-8445-74167fe88251
