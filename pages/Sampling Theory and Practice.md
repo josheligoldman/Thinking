@@ -75,6 +75,7 @@
 		- Don't forget that we always need to pair a sampling design with an inference strategy
 			- ((64652062-6315-42c3-8142-d7ec7953d6db))
 		- Poisson sampling
-			-
+			- Bernoulli trial or each unit for whether it should be included.
+			- Sample size will vary
 		-
 		-
