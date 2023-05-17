@@ -32,5 +32,6 @@
 			- Select one unit from the first $1, 2, \dots, K$. Then, your sample will be the units $x, x+k, x+2k, \dots, x + (n-1)k$
 			- Variance estimator is biased
 		- ((64650b16-5a16-48e7-b1d6-818be2c4680f))
-			- Read the references below this
+			- Read the references below this for papers on central limit theorems for various survey designs.
+		-
 			-
