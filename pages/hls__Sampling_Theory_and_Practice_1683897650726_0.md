@@ -92,3 +92,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 84
   hl-color:: yellow
   id:: 64652017-509b-4a24-b187-70c7d2c586f2
+- We show that a PPS sampling design coupled with the HT estimator is an optimal sampling strategy under the following framework.
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: yellow
+  id:: 64652062-6315-42c3-8142-d7ec7953d6db
