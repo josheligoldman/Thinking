@@ -55,6 +55,6 @@
 			- TO READ: Read about spatially balanced probabilistic sampling
 		- Sample size allocation under stratified sampling
 			- Proportional allocation ((64651229-0146-415f-aea3-961ddce5a9f3))
-			-
+			- Proportional allocation is more accurate than SRSWOR for estimating population parameters.
 			-
 		-
