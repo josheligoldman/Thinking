@@ -53,5 +53,8 @@
 			- ((646510e8-58a9-4895-8445-74167fe88251)) Paper discusses theoretical results for stratified sampling
 			- Stratification provides ((64651148-c043-4660-97a3-5ea5d1e9feaf))
 			- TO READ: Read about spatially balanced probabilistic sampling
+		- Sample size allocation under stratified sampling
+			- Proportional allocation ((64651229-0146-415f-aea3-961ddce5a9f3))
+			-
 			-
 		-

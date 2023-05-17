@@ -46,3 +46,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 54
   hl-color:: yellow
   id:: 64651148-c043-4660-97a3-5ea5d1e9feaf
+- nh = n N Nh = nWh , h = 1, 2, · · · , H .
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 64651229-0146-415f-aea3-961ddce5a9f3
