@@ -24,4 +24,8 @@
 		- ((6464f58b-5100-429b-b5fc-89b6d5c7fa1b))
 	- ## Chapter 2
 		- ((64650641-256c-435e-ae98-90d6c46c682d)) Simple random sampling without replacement
+		- Sampling Strategy
+			- sampling designs
+			- statistical analysis
+			- Both these pieces have to go hand in hand
 		-
