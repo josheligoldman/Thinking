@@ -976,5 +976,22 @@
                                    :height 1061.1829229438804}),
                           :page 76},
                :content {:text "The Horvitz-Thompson Estimator"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64652017-509b-4a24-b187-70c7d2c586f2",
+               :page 84,
+               :position {:bounding {:x1 140.171875,
+                                     :y1 687.609375,
+                                     :x2 345.9288330078125,
+                                     :y2 704.609375,
+                                     :width 699.904419462018,
+                                     :height 1061.1829229438804},
+                          :rects ({:x1 140.171875,
+                                   :y1 687.609375,
+                                   :x2 345.9288330078125,
+                                   :y2 704.609375,
+                                   :width 699.904419462018,
+                                   :height 1061.1829229438804}),
+                          :page 84},
+               :content {:text "Probability Proportional to Size"},
                :properties {:color "yellow"}}],
- :extra {:page 84}}
+ :extra {:page 85}}

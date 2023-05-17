@@ -70,7 +70,9 @@
 			-
 	- ## Chapter 4
 		- ((64651d97-0c9f-4b55-8f38-cf3781991396)) Horvitz Thompson estimator for population totals while using unequal probability sampling
-		- Perfect accuracy when calculatig $T$ if $\pi_i \propto y_i$, but this is impossible in practice since the values of $y_i$ aren't known
+		- Perfect accuracy when calculatig $T$ if $\pi_i \propto y_i$, but this is impossible in practice since the values of $y_i$ aren't known. But, we can use a correlated variable $z_i$
+			- ((64652017-509b-4a24-b187-70c7d2c586f2))
+		-
 		-
 		-
 		-

@@ -87,3 +87,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 76
   hl-color:: yellow
   id:: 64651d97-0c9f-4b55-8f38-cf3781991396
+- Probability Proportional to Size
+  ls-type:: annotation
+  hl-page:: 84
+  hl-color:: yellow
+  id:: 64652017-509b-4a24-b187-70c7d2c586f2
