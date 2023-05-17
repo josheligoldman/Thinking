@@ -959,5 +959,22 @@
                                    :height 1061.1829229438804}),
                           :page 67},
                :content {:text "Stratified Two-Stage Cluster Sampling"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64651d97-0c9f-4b55-8f38-cf3781991396",
+               :page 76,
+               :position {:bounding {:x1 127.875,
+                                     :y1 428.90625,
+                                     :x2 406.9932861328125,
+                                     :y2 449.90625,
+                                     :width 699.904419462018,
+                                     :height 1061.1829229438804},
+                          :rects ({:x1 127.875,
+                                   :y1 428.90625,
+                                   :x2 406.9932861328125,
+                                   :y2 449.90625,
+                                   :width 699.904419462018,
+                                   :height 1061.1829229438804}),
+                          :page 76},
+               :content {:text "The Horvitz-Thompson Estimator"},
                :properties {:color "yellow"}}],
- :extra {:page 74}}
+ :extra {:page 79}}

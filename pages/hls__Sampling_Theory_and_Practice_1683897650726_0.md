@@ -82,3 +82,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 67
   hl-color:: yellow
   id:: 64651669-ab05-456a-b84e-1ff7550ed554
+- The Horvitz-Thompson Estimator
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 64651d97-0c9f-4b55-8f38-cf3781991396

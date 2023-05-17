@@ -69,4 +69,5 @@
 			- Strata -> cluster -> units
 			-
 	- ## Chapter 4
+		- ((64651d97-0c9f-4b55-8f38-cf3781991396)) Horvitz Thompson estimator for population totals while using unequal probability sampling
 		-
