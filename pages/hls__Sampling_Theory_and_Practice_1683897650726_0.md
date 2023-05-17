@@ -16,3 +16,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 41
   hl-color:: yellow
   id:: 64650887-6dfd-4d92-98c7-2dbb6a07db0e
+- Central limit theorems in survey sampling under more complex sampling designs are difficult to establish.
+  ls-type:: annotation
+  hl-page:: 43
+  hl-color:: yellow
+  id:: 64650b16-5a16-48e7-b1d6-818be2c4680f
