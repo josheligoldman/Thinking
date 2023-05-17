@@ -10,6 +10,7 @@
 	- Unequal Probability Sampling
 	- Differing sample size allocations
 	- ## Chapter 1
+	  collapsed:: true
 		- Populations
 			- Target population - all units
 			- Frame population - units covered by frame
@@ -23,6 +24,7 @@
 			- Practically, we draw samples one at a time instead of assigning each sample a probability
 		- ((6464f58b-5100-429b-b5fc-89b6d5c7fa1b))
 	- ## Chapter 2
+	  collapsed:: true
 		- ((64650641-256c-435e-ae98-90d6c46c682d)) Simple random sampling without replacement
 		- Sampling Strategy
 			- sampling designs
@@ -43,5 +45,5 @@
 				- Small initial survey
 		- Inverse sampling for rare items
 			- Fix $m$. Sample until you get $m$ instances of the rare item. Suppose you sample $n$ items total. Then, $\frac{m-1}{n-1}$ is an unbiased estimator of $M/N$
-			-
-			-
+	- ## Chapter 3
+		-
