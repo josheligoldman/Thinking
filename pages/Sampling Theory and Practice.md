@@ -14,5 +14,5 @@
 			- Target population - all units
 			- Frame population - units covered by frame
 			- Sampled population - set of units that have a non-zero chance of being sampled.
-		-
+		- Stratification
 		-
