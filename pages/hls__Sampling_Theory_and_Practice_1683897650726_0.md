@@ -72,3 +72,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 58
   hl-color:: yellow
   id:: 646513ca-2c40-444d-a95f-26e1777e7d65
+- The second is to allocate the sample sizes (n1, n2, · · · , nH) to minimize the total cost c0 + ∑H h=1 ch nh while controlling the variance V (  ̄yst ) at a pre-specified value, V0 .
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 646513d2-cf4c-4ea1-91a5-f07f3aede9bf
