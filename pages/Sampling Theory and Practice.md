@@ -41,5 +41,6 @@
 			- How to estimate variance before study?
 				- Historical data
 				- Small initial survey
-		-
+		- Inverse sampling for rare items
+			-
 			-
