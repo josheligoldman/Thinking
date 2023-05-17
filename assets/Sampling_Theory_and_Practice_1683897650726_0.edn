@@ -943,4 +943,4 @@
                           :page 58},
                :content {:text "The second is to allocate the sample sizes (n1, n2, · · · , nH) to minimize the total cost c0 + ∑H h=1 ch nh while controlling the variance V (  ̄yst ) at a pre-specified value, V0 ."},
                :properties {:color "yellow"}}],
- :extra {:page 59}}
+ :extra {:page 60}}
