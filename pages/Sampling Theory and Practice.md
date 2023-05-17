@@ -11,5 +11,7 @@
 	- Differing sample size allocations
 	- ## Chapter 1
 		- Populations
-			-
+			- Target population - all units
+			- Frame population - units covered by frame
+			- Sampled population - set of peole
 		-
