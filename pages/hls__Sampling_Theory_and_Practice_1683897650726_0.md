@@ -31,3 +31,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 45
   hl-color:: yellow
   id:: 64650cc3-de20-469f-bfdb-bf9f71e16c5a
+- yst = H∑ h=1 Wh  ̄yh
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 64651064-a240-4c40-860a-d70967fe512f

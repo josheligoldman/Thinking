@@ -48,5 +48,7 @@
 	- ## Chapter 3
 		- Stratified sampling
 			- When using stratified sampling, the typical population mean and variance aren't useful statistics
-			- You have to weight the
+			- The correct formula involves weighting each stratas mean/variances.
+			- ((64651064-a240-4c40-860a-d70967fe512f))
+			-
 		-
