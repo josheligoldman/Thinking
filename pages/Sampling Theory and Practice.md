@@ -16,4 +16,6 @@
 			- Sampled population - set of units that have a non-zero chance of being sampled.
 		- Stratification + clustering
 			- Population is split up into groups
-			-
+			- In stratified random sampling, every strata is sampled from
+			- Under clustering, only a portion of the clusters are sampled from.
+		-
