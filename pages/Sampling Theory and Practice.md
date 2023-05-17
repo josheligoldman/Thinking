@@ -34,7 +34,10 @@
 		- ((64650b16-5a16-48e7-b1d6-818be2c4680f))
 			- Read the references below this for papers on central limit theorems for various survey designs.
 		- Sample size for SRSWR
-			- ((64650bf6-7a29-4004-9cc8-c6b5e9a2e406))
+			- Absolute Error:
+				- ((64650bf6-7a29-4004-9cc8-c6b5e9a2e406))
+			- Relative Error:
+				- ((64650cc3-de20-469f-bfdb-bf9f71e16c5a))
 			- How to estimate variance before study?
 				- Historical data
 				- Small initial survey

@@ -26,3 +26,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 44
   hl-color:: yellow
   id:: 64650bf6-7a29-4004-9cc8-c6b5e9a2e406
+- n = Z2α/2σ 2 y(e∗)2 + Z2α/2σ 2 y /N.= n01 + n0/N (2.10)
+  ls-type:: annotation
+  hl-page:: 45
+  hl-color:: yellow
+  id:: 64650cc3-de20-469f-bfdb-bf9f71e16c5a
