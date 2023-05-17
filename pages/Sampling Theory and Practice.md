@@ -57,6 +57,8 @@
 			- Proportional allocation ((64651229-0146-415f-aea3-961ddce5a9f3))
 			- Proportional allocation is more accurate than SRSWOR for estimating population parameters.
 				- ((646512da-8b3c-48ce-9933-6308554fa665))
+				- Gains are greatest when units within a strata are all very similar, and the strata are all very distinct from one another
+					- ((64651304-0313-45f5-9f04-0504baee7b7d))
 			-
 			-
 			-

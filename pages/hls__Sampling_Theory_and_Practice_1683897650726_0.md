@@ -56,3 +56,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 56
   hl-color:: yellow
   id:: 646512da-8b3c-48ce-9933-6308554fa665
+- he gain of efficiency under stratified sampling is larger when units within each stratum are more homogeneou
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 64651304-0313-45f5-9f04-0504baee7b7d
