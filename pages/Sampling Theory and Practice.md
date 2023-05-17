@@ -18,4 +18,6 @@
 			- Population is split up into groups
 			- In stratified random sampling, every strata is sampled from
 			- Under clustering, only a portion of the clusters are sampled from.
-		-
+		- Probability sampling
+			- Each subset is assigned a probability of being selected.
+			-
