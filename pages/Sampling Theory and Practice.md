@@ -46,6 +46,7 @@
 		- Inverse sampling for rare items
 			- Fix $m$. Sample until you get $m$ instances of the rare item. Suppose you sample $n$ items total. Then, $\frac{m-1}{n-1}$ is an unbiased estimator of $M/N$
 	- ## Chapter 3
+	  collapsed:: true
 		- Stratified sampling
 			- When using stratified sampling, the typical population mean and variance aren't useful statistics
 			- The correct formula involves weighting each stratas mean/variances.
@@ -67,3 +68,4 @@
 		- ((64651669-ab05-456a-b84e-1ff7550ed554))
 			- Strata -> cluster -> units
 			-
+	-
