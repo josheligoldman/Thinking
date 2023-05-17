@@ -20,4 +20,5 @@
 			- Under clustering, only a portion of the clusters are sampled from.
 		- Probability sampling
 			- Each subset is assigned a probability of being selected.
-			-
+			- Practically, we draw samples one at a time instead of assigning each sample a probability
+		-
