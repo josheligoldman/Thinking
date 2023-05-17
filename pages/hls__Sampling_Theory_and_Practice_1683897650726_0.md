@@ -67,3 +67,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-color:: yellow
   id:: 64651356-77fb-492d-8798-c8aafce6a80d
   hl-stamp:: 1684345687816
+- The first is to allocate the stratum sample sizes (n1, n2, · · · , nH) to minimize the variance V (  ̄yst ) with a pre-specified total cost, C0 .
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 646513ca-2c40-444d-a95f-26e1777e7d65

@@ -61,4 +61,6 @@
 					- ((64651304-0313-45f5-9f04-0504baee7b7d))
 			- Neyman allocation tries to minimize variance
 				- ((64651356-77fb-492d-8798-c8aafce6a80d))
+			- Optimal cost allocation
+				- ((646513ca-2c40-444d-a95f-26e1777e7d65))
 				-
