@@ -37,5 +37,6 @@
 			- ((64650bf6-7a29-4004-9cc8-c6b5e9a2e406))
 			- How to estimate variance before study?
 				- Historical data
-				-
+				- Small initial survey
+		-
 			-
