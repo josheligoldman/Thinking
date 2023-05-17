@@ -37,5 +37,22 @@
                                    :height 1061.1829229438804}),
                           :page 36},
                :content {:text "SRSWOR"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64650887-6dfd-4d92-98c7-2dbb6a07db0e",
+               :page 41,
+               :position {:bounding {:x1 202.15625,
+                                     :y1 230.125,
+                                     :x2 377.5010070800781,
+                                     :y2 247.125,
+                                     :width 699.904419462018,
+                                     :height 1061.1829229438804},
+                          :rects ({:x1 202.15625,
+                                   :y1 230.125,
+                                   :x2 377.5010070800781,
+                                   :y2 247.125,
+                                   :width 699.904419462018,
+                                   :height 1061.1829229438804}),
+                          :page 41},
+               :content {:text "simple systematic sampling"},
                :properties {:color "yellow"}}],
- :extra {:page 40}}
+ :extra {:page 41}}

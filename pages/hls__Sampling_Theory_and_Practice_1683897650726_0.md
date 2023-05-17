@@ -11,3 +11,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 36
   hl-color:: yellow
   id:: 64650641-256c-435e-ae98-90d6c46c682d
+- simple systematic sampling
+  ls-type:: annotation
+  hl-page:: 41
+  hl-color:: yellow
+  id:: 64650887-6dfd-4d92-98c7-2dbb6a07db0e
