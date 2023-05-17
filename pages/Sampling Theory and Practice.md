@@ -51,5 +51,6 @@
 			- The correct formula involves weighting each stratas mean/variances.
 			- ((64651064-a240-4c40-860a-d70967fe512f))
 			- ((646510e8-58a9-4895-8445-74167fe88251)) Paper discusses theoretical results for stratified sampling
+			- Stratification provides ((64651148-c043-4660-97a3-5ea5d1e9feaf))
 			-
 		-
