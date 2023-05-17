@@ -51,3 +51,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 55
   hl-color:: yellow
   id:: 64651229-0146-415f-aea3-961ddce5a9f3
+- always provides more efficient estimate of the population mean than SRSWOR.
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 646512da-8b3c-48ce-9933-6308554fa665

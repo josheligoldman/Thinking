@@ -56,5 +56,8 @@
 		- Sample size allocation under stratified sampling
 			- Proportional allocation ((64651229-0146-415f-aea3-961ddce5a9f3))
 			- Proportional allocation is more accurate than SRSWOR for estimating population parameters.
+				- ((646512da-8b3c-48ce-9933-6308554fa665))
+			-
+			-
 			-
 		-
