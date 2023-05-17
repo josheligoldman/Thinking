@@ -69,6 +69,7 @@
 			- Strata -> cluster -> units
 			-
 	- ## Chapter 4
+		- Might need to reread this chapter more closely
 		- ((64651d97-0c9f-4b55-8f38-cf3781991396)) Horvitz Thompson estimator for population totals while using unequal probability sampling
 		- Perfect accuracy when calculatig $T$ if $\pi_i \propto y_i$, but this is impossible in practice since the values of $y_i$ aren't known. But, we can use a correlated variable $z_i$
 			- ((64652017-509b-4a24-b187-70c7d2c586f2))
@@ -77,5 +78,5 @@
 		- Poisson sampling
 			- Bernoulli trial or each unit for whether it should be included.
 			- Sample size will vary
-		-
+	-
 		-
