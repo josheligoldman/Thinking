@@ -80,5 +80,7 @@
 			- Bernoulli trial or each unit for whether it should be included.
 			- Sample size will vary
 	- ## Chapter 5
+		- Model an image as a super-population? Random factors are orientation, exposure, etc. ((6465246d-e2ff-49bc-a0c5-4d9d20438f76))
+		-
 		-
 		-

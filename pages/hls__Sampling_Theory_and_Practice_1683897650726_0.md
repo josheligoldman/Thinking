@@ -97,3 +97,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 85
   hl-color:: yellow
   id:: 64652062-6315-42c3-8142-d7ec7953d6db
+- perpopulation model
+  ls-type:: annotation
+  hl-page:: 107
+  hl-color:: yellow
+  id:: 6465246d-e2ff-49bc-a0c5-4d9d20438f76
