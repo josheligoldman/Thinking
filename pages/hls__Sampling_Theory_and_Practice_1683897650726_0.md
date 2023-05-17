@@ -77,3 +77,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 58
   hl-color:: yellow
   id:: 646513d2-cf4c-4ea1-91a5-f07f3aede9bf
+- Stratified Two-Stage Cluster Sampling
+  ls-type:: annotation
+  hl-page:: 67
+  hl-color:: yellow
+  id:: 64651669-ab05-456a-b84e-1ff7550ed554
