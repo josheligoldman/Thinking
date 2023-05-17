@@ -74,6 +74,7 @@
 			- ((64652017-509b-4a24-b187-70c7d2c586f2))
 		- Don't forget that we always need to pair a sampling design with an inference strategy
 			- ((64652062-6315-42c3-8142-d7ec7953d6db))
-		-
+		- Poisson sampling
+			-
 		-
 		-
