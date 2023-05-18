@@ -37,5 +37,7 @@
 			- Simple random sample
 			- stratified random sample
 			- cluster sample
-		-
+			- systematic sample
+				- A list is chosen from one initial random number, like taking every 10th element starting from a random first element
+			-
 		-
