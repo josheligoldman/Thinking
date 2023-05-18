@@ -12,6 +12,7 @@
 		- Observational vs randomised experiments
 	- Definitions of a representative sample
 		- The miniature
+			- Sample from many highly homogeneous groups, so that any sample represents that group.
 			-
 # Pass 1
 	- Category
