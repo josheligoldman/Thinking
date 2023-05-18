@@ -15,4 +15,8 @@
 			- Sampling Frame - Specification of samplings units from which the sample may be selected.
 		- Selection Bias
 			- Certain groups are sampled at a different rate than other groups.
+			- Convenience samples:
+				- Units are chosen based on convenience. Often the first units they see.
+			- Judgement Samples
+				- The sampler chooses a representative sample based on their judgement.
 			-
