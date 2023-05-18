@@ -19,4 +19,6 @@
 				- Units are chosen based on convenience. Often the first units they see.
 			- Judgement Samples
 				- The sampler chooses a representative sample based on their judgement.
+			- Self-selected
+				- Volunteers are sampled
 			-
