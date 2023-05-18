@@ -6,4 +6,8 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- ## Chapter 1
+		- Observational Unit
+		- Target Population
+		- Sample
+		- Sampled Population
 		-
