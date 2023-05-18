@@ -1,3 +1,2 @@
-- Look at sampling theory (not statistical sampling theory, but harmonic analysis type sampling theory).
-	- Perhaps, a good sample is one that best allows you to recover what the original space looks like.
--
+- Ideas
+	- Collect a small portion of the sample and test it for bias, similar to how survey samplers will collect a small sample to compute variance, etc.
