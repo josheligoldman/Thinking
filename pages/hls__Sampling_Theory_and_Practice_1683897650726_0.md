@@ -102,3 +102,8 @@ file-path:: ../assets/Sampling_Theory_and_Practice_1683897650726_0.pdf
   hl-page:: 107
   hl-color:: yellow
   id:: 6465246d-e2ff-49bc-a0c5-4d9d20438f76
+- 5.6 (Balanced Sampling) 
+  ls-type:: annotation
+  hl-page:: 126
+  hl-color:: yellow
+  id:: 646628fc-ad02-4089-816e-90f06196a92e
