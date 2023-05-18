@@ -30,5 +30,5 @@
 			- Nonresponse
 				- Differences between people who do and don't respond to the survey
 		- Measurement Bias
-			-
+			- How would this occur in ML datasets? Perhaps camera settings, orientation, etc.
 			-
