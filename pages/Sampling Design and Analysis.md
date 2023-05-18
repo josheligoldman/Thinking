@@ -5,4 +5,5 @@
 	- Author: [[Sharon Lohr]]
 	- Status: [[IN-PROGRESS]]
 # Notes
-	-
+	- ## Chapter 1
+		-
