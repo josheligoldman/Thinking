@@ -21,4 +21,5 @@
 				- The sampler chooses a representative sample based on their judgement.
 			- Self-selected
 				- Volunteers are sampled
-			-
+			- Undercoverage
+				-
