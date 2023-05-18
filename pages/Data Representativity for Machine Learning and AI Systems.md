@@ -11,7 +11,8 @@
 			- ((64665e0f-de46-4b90-ad1e-1e17f26312a2))
 		- Observational vs randomised experiments
 	- Definitions of a representative sample
-		-
+		- The miniature
+			-
 # Pass 1
 	- Category
 	- Context
