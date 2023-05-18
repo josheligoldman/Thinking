@@ -6,8 +6,9 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- ## Chapter 1
-		- Observational Unit
-		- Target Population
-		- Sample
+		- Observational Unit - object on which the measurement is taken
+		- Target Population - Complete collection of observations we want to study
+		- Sample -
 		- Sampled Population
-		-
+		- Sampling Unit
+		- Sampling Frame
