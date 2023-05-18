@@ -14,6 +14,11 @@
 		- Reflection of the target
 		- coverage of the target
 		- Samples as representatives of subgroups in the population
+	- Metrics for each concept
+		- ((64666be7-c4e3-4828-9d21-67be577c20db))
+		- ((64666bf0-d0b6-4c71-b7a5-2d7755d19399))
+		- ((64666bfc-7a28-4d8b-84ac-53b7a3a66b7c))
+	-
 # Pass 1
 	- Category
 	- Context
