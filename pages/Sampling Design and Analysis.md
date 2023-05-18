@@ -6,10 +6,13 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- ## Chapter 1
-		- Observational Unit - object on which the measurement is taken
-		- Target Population - Complete collection of observations we want to study
-		- Sample - A subset of the population
-		- Sampled Population - The set of all units that might have been chosen for the sample
-		- Sampling Unit - Unit that is selected for the sample. For example, we might select households when studying people since that is what we have access to.
-		- Sampling Frame - Specification of samplings units from which the sample may be selected.
-	-
+		- Terms:
+			- Observational Unit - object on which the measurement is taken
+			- Target Population - Complete collection of observations we want to study
+			- Sample - A subset of the population
+			- Sampled Population - The set of all units that might have been chosen for the sample
+			- Sampling Unit - Unit that is selected for the sample. For example, we might select households when studying people since that is what we have access to.
+			- Sampling Frame - Specification of samplings units from which the sample may be selected.
+		- Selection Bias
+			- Certain groups are sampled at a different rate than other groups.
+			-
