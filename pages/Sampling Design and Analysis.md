@@ -22,4 +22,7 @@
 			- Self-selected
 				- Volunteers are sampled
 			- Undercoverage
-				-
+				- Sampling frame doesn't include same parts of the target population
+			- Overcoverage
+				- Units not in the target population end up in the sample
+			-
