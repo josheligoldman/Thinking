@@ -6,6 +6,7 @@
 	- Status: [[IN-PROGRESS]]
 # Notes
 	- ## Chapter 1
+	  collapsed:: true
 		- Terms:
 			- Observational Unit - object on which the measurement is taken
 			- Target Population - Complete collection of observations we want to study
@@ -31,4 +32,10 @@
 				- Differences between people who do and don't respond to the survey
 		- Measurement Bias
 			- How would this occur in ML datasets? Perhaps camera settings, orientation, etc.
-	-
+	- ## Chapter 2
+		- Types of random sampling methods
+			- Simple random sample
+			- stratified random sample
+			- cluster sample
+		-
+		-
