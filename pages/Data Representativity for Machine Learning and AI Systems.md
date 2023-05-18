@@ -10,10 +10,10 @@
 		- Kruskal and Mosteller's papers
 			- ((64665e0f-de46-4b90-ad1e-1e17f26312a2))
 		- Observational vs randomised experiments
-	- Definitions of a representative sample
-		- The miniature
-			- Sample from many highly homogeneous groups, so that any sample represents that group.
-			-
+	- Three concepts of fairness
+		- Reflection of the target
+		- coverage of the target
+		- Samples as representatives of subgroups in the population
 # Pass 1
 	- Category
 	- Context
