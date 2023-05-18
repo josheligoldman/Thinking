@@ -5,7 +5,8 @@
 	- Author:
 	- Status: [[IN-PROGRESS]]
 - # Notes
-	-
+	- Multiple definitions of representative sampling
+		-
 # Pass 1
 	- Category
 	- Context
