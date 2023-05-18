@@ -11,4 +11,5 @@
 		- Sample - A subset of the population
 		- Sampled Population - The set of all units that might have been chosen for the sample
 		- Sampling Unit - Unit that is selected for the sample. For example, we might select households when studying people since that is what we have access to.
-		- Sampling Frame -
+		- Sampling Frame - Specification of samplings units from which the sample may be selected.
+	-
